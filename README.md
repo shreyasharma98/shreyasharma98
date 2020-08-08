@@ -13,3 +13,5 @@ class AboutMe:
     return ['Won SIH2020','Won SIH2019']
     
  ```
+ # Git Status
+ ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=shreyasharma98&show_icons=true&hide_border=true)
