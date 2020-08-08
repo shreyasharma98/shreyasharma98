@@ -7,7 +7,7 @@ class AboutMe:
               'frameWorks' : ['django-rest','flask']
               }
   def getMyInterests():
-    return ['MachineLearning','DeepLearning,'WebDev']
+    return ['DS-Algo','MachineLearning','DeepLearning,'WebDev']
     
   def getAchievements():
     return ['Won SIH2020','Won SIH2019']
